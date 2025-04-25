@@ -1,4 +1,4 @@
-# Cypto_tracker
+
 # 🚀 Crypto Tracker
 
 A sleek and responsive web app to track cryptocurrency stats, trends, and market movements — built with **React**, **Redux Toolkit**, and **Recharts**.
